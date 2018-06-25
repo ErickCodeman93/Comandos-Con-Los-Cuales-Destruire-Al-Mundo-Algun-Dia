@@ -1,0 +1,2 @@
+#Para mover archivos de una carpeta actual a una anterior
+mv * .[^.]* ..
